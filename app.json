@@ -81,10 +81,7 @@
             "value": "🔱 LO9MANE&BASSAM BOT 🔱" ,
             "required": true
       }
-          "INBOX_BLOCK": {
-            "description": "",
-            "value": "false" ,
-            "required": true
+       
         
      },
     "addons": [{
