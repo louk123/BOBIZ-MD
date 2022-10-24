@@ -479,7 +479,7 @@ return await conn.sendMessage(from , { text: 'لم يتم العثور على ا
 }
 var mesaj = '';
 arama.all.map((video) => {
-mesaj += ' *🖲️' + video.title + '*\n🔗 ' + video.url + '\n\n'
+mesaj += ' *😱' + video.title + '*\n🔗 ' + video.url + '\n\n'
 });
 const srcres = await conn.sendMessage(from , { text:  mesaj }, { quoted: mek } )
 } catch(e) {
@@ -513,8 +513,8 @@ await conn.sendMessage(from , { text: 'error' }, { quoted: mek } )
     const listMessage = {
       text: " \n\n name : " + q + '\n\n ',
       footer: config.FOOTER,
-      title: '🔱𝚁𝚊𝚒𝚣𝚎𝚕 𝙱𝙾𝚃🔱 تحميل التطبيقات',
-      buttonText: "نتائج البحث اضغط هنا",
+      title: '🔱𝐋𝐎9𝐌𝐀𝐍𝐄𝐁𝐎𝐓🔱 تحميل التطبيقات',
+      buttonText: "نتائج البحث تڪا هنا باش تشوف داڪشي😹",
       sections
   }
     await conn.sendMessage(from, listMessage, {quoted: mek })
