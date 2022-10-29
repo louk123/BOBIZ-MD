@@ -1,5 +1,5 @@
 {
-    "name": "LO9MANE&BASSAM - MD",
+    "name": "LO9MANE - MD",
     "description": "LO9MANEBOT  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://telegra.ph/file/e61d1862351f056f0ale2.jpg",
     "keywords": ["whatsapp", "userbot", "bobiz", "bot", "ai" , "MD" ],
@@ -26,12 +26,12 @@
       },
      "URL_2NAME": {
             "description": "",
-            "value": "✨قࢪوب البوتات✨" ,
+            "value": "❤️شات ديالي علۍ الواتساب✨" ,
             "required": true
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://chat.whatsapp.com/EqhGetWdx1KGAZA0MDLmbl" ,
+            "value": "https://wa.me/+212661809542" ,
             "required": true
       },
       
@@ -78,7 +78,7 @@
       },
           "STIC_WM": {
             "description": "حقوق الملصق",
-            "value": "🔱 LO9MANE&BASSAM BOT 🔱" ,
+            "value": "🔱الأزـــ؏ـــࢪ الـمــلــڪــي//!!🏴󠁧󠁢󠁥󠁮󠁧󠁿⃟🌹🔱" ,
             "required": true
       }
        
