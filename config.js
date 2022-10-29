@@ -12,8 +12,8 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 
 module.exports = {
     SESSION: process.env.BOBIZ_SESSION === undefined ? '' : process.env.BOBIZ_SESSION,
-    URL_1NAME: process.env.URL_1NAME === undefined ? '🎃شات المطور🎃' : process.env.URL_1NAME,
-    URL_1LINK: process.env.URL_1LINK === undefined ? 'https://wa.me/+212661809542 ' : process.env.URL_1LINK,
+    URL_1NAME: process.env.URL_1NAME === undefined ? '🎃قناتي يوتوب🎃' : process.env.URL_1NAME,
+    URL_1LINK: process.env.URL_1LINK === undefined ? 'https://youtu.be/aSNQVNHgCqo ' : process.env.URL_1LINK,
     URL_2NAME: process.env.URL_2NAME === undefined ? '✨قروبي✨' : process.env.URL_2NAME,
     URL_2LINK: process.env.URL_2LINK === undefined ? 'https://chat.whatsapp.com/Gb62eN2S5yI9mhfdn6Ma4z' : process.env.URL_2LINK,
     FOOTER: process.env.FOOTER === undefined ? 'RAIZELBOT-MD  https://wa.me/+212661809542  تابعني على الواتساب ' : process.env.FOOTER,
