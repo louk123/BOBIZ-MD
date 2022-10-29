@@ -19,7 +19,7 @@ module.exports = {
     FOOTER: process.env.FOOTER === undefined ? 'LO9MANEBOT-MD  https://wa.me/+212661809542  تابعني على الواتساب ' : process.env.FOOTER,
     CAPTION: process.env.CAPTION === undefined ? '🔱 LO9MANEBOT 🔱 𝙱𝙾𝚃 𝙼𝙳 https://wa.me/+212661809542 ادخل نطقطق' : process.env.CAPTION,
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
-    ALIVE_LOGO: process.env.ALIVE_LOGO === undefined ? 'https://telegra.ph/file/201b5c02be1e336a29c60.jpg' : process.env.ALIVE_LOGO,
+    ALIVE_LOGO: process.env.ALIVE_LOGO === undefined ? 'https://telegra.ph/file/e61d1862351f056f0ale2.jpg' : process.env.ALIVE_LOGO,
     SONG_DOWN: process.env.SONG_DOWN === undefined ? '*📥Downloading your song...*' : process.env.SONG_DOWN,
     SONG_UP: process.env.SONG_UP === undefined ? '*📤Uploading your song...*' : process.env.SONG_UP,
     VIDEO_DOWN: process.env.VIDEO_DOWN === undefined ? '*📥Downloading your video...*' : process.env.VIDEO_DOWN,
